@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ljjdwawdwd/testehfling/refs/heads/main/ehfling.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ljjdwawdwd/testehfling/refs/heads/main/testehfling.lua"))()
 
 library:window({name = "nebula", suffix = "tech", gameInfo = "Milenium for Counter-Strike: Global Offensive", AccentColor = Color3.fromRGB(155, 150, 219), ConfigFolder = "Test"})
 
